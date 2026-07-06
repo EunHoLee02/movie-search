@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  min-width: 320px;
+  background:
+    radial-gradient(circle at top left, rgba(229, 9, 20, 0.22), transparent 32rem),
+    linear-gradient(135deg, #09090b 0%, #171717 52%, #0f172a 100%);
+}
+
+button,
+input {
+  font: inherit;
+}
